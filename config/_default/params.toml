@@ -18,8 +18,8 @@ SortBy              = "default"
     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    emoji    = "❄️"
+    subtitle = "We don’t hunt for bugs — bugs hunt us."
     avatar   = "img/avatar.png"
 
 [article]
